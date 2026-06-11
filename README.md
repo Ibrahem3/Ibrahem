@@ -1,6 +1,6 @@
 # 🎭 Ibrahim Samir | The AI Orchestrator & Enterprise Architect
 
-**Founder & Chief Architect at Ainux Lab** *Revolutionizing SaaS Development through Strategic AI Orchestration, Multi-Tenancy, & High-Performance Architecture.*
+**Founder & Chief Architect at Ainux ** *Revolutionizing SaaS Development through Strategic AI Orchestration, Multi-Tenancy, & High-Performance Architecture.*
 
 ---
 
